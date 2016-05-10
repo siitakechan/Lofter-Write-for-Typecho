@@ -36,7 +36,7 @@
     <div class="browsehappy" role="dialog"><?php _e('当前网页 <strong>不支持</strong> 你正在使用的浏览器. 为了正常的访问, 请 <a href="http://browsehappy.com/">升级你的浏览器</a>'); ?>.</div>
 <![endif]-->
 
-<div class="bg" style="background-image:url(<?php $this->options->themeUrl('img/bg.jpg'); ?>"></div>
+<div class="bg" style="background-image:url(<?php $this->options->themeUrl('img/bg.jpg'); ?>)"></div>
 <div class="p-bd">
     <div class="g-hd">
 		<div class="g-box">
