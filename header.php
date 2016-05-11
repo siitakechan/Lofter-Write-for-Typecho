@@ -43,8 +43,8 @@
 			<h1 class="u-tit"><a class="u-tit-a" href="<?php $this->options->siteUrl(); ?>">
 				<?php if ($this->options->logoUrl): ?>
                 <img src="<?php $this->options->logoUrl() ?>" alt="<?php $this->options->title() ?>" />
-                <?php endif; ?>
-                <?php $this->options->title() ?></a></h1>
+                <?php else: ?>
+                <?php $this->options->title(); endif; ?></a></h1>
 			<div class="u-about a-fadeinT" id="hitokoto"><?php $this->options->description() ?></div> 
 			<div class="m-nav a-fadeinB">
 				<a<?php if($this->is('index')): ?> class="current"<?php endif; ?> href="<?php $this->options->siteUrl(); ?>"><?php _e('首页'); ?></a>
