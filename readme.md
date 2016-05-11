@@ -1,7 +1,7 @@
 简介
 ----
 
-![Typecho 单栏自适应主题 Lofter Write for Typecho v1.0](http://img.sucx.cn/di/W732/Lofter-Write-for-Typecho-v1.jpg)
+![Typecho 单栏自适应主题 Lofter Write for Typecho v1.0](http://img.sucx.cn/di/877S/Lofter-Write-for-Typecho-v1.jpg)
 
 又做(fang)了一款主题，这次决定分享粗来，嗯！
 
